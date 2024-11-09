@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on DLT Based ERP Solutions
+- 🌱 I’m currently learning Hashgraph
+- 👯 I’m looking to collaborate on Decentralised Systems
